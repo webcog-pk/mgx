@@ -1,0 +1,25 @@
+{
+  "name": "mgx",
+  "version": "1.0.0",
+  "description": "Digital Agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcog-pk/mgx.git"
+  },
+  "keywords": [
+    "mgx"
+  ],
+  "author": "Moazzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcog-pk/mgx/issues"
+  },
+  "homepage": "https://github.com/webcog-pk/mgx#readme",
+  "dependencies": {
+    "sass": "^1.80.6"
+  }
+}
